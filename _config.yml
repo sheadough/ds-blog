@@ -21,7 +21,8 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+#  Architect,Cayman,Dinky,Hacker,Leap day,Merlot,Midnight,Minima,Minimal,Modernist,Slate,Tactile,Time machine
+theme: Architect
 plugins:
   - jekyll-feed
   - jekyll-gist
